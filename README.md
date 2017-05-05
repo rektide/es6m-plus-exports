@@ -1,4 +1,4 @@
-# ES6M Plus
+# ES6M Plus Exports
 
 > A standard contract for modules to declare their "exports".
 

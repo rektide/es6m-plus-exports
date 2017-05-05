@@ -1,16 +1,16 @@
 {
-	"name": "es6m-plus",
+	"name": "es6m-plus-exports",
 	"version": "1.0.0",
 	"description": "A standard contract for modules to declare their \"exports\".",
-	"main": "es6m-plus.js",
+	"main": "es6m-plus-exports.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://archive.voodoowarez.com/es6m-plus"
+		"url": "https://archive.voodoowarez.com/es6m-plus-exports"
 	},
-	"keywords": [],
+	"keywords": ["es6m", "exports", "cjs", "commonjs", "reflection", "reflect", "module"],
 	"author": "rektide de la faye",
 	"license": "X11"
 }
